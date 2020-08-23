@@ -17,3 +17,39 @@
     border-radius: 8px;
     padding: 9px 25px
 }
+.cat1{
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat2{
+    background-color: orchid;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat3{
+    background-color: blue;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.car h1{
+    color: white;
+}
+.car img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#Subcribe{
+    height: 300px;
+}
+#Subcribe h6{
+         color: gray;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
